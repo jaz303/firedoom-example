@@ -1,3 +1,6 @@
 {
-	"name": "firedoom-example"
+	"name": "firedoom-example",
+    "scripts": {
+        "start": "firedoom"
+    }
 }
